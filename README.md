@@ -1,6 +1,6 @@
 # Arduino Code Examples
 
-Copyright (c) 2022-2024 Ercan Ersoy
+Copyright (c) 2022-2024 [Ercan Ersoy](https://ercanersoy.net)
 
 These files licensed by MIT License.
 
